@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Go. Been wanting to for awhile, and am finally taking the time to do it!
 - 👯 I’m looking to collaborate on anything web, mobile, or backend! I'm always up for opportunities to work with new people.
 - 🤔 I’m looking for a new full time job!
-- 💬 Ask me about anything. I particularly love talking about cooking, music, and Jesus.
+- 💬 Ask me about anything. I particularly love talking about coding, cooking, music, and Jesus.
 - 📫 How to reach me: I'm actively checking my email, so I'd start there! [ty@tyboyd.dev](mailto:ty@tyboyd.dev)
